@@ -13,7 +13,7 @@ puisse s'emparer de ce format et accueillir ses propres goûters,
 sans pour autant disposer de talents de pédagogue ou d'animateur-trice.
 
 Dans ce souhait de partager,
-Julien, Jonathan et moi avons décrit l'[[esprit du Coding Goûter|http://codinggouter.org/doku.php?id=esprit]], en termes d'intention,
+Julien, Jonathan et moi avons décrit l'[esprit du Coding Goûter](http://codinggouter.org/doku.php?id=esprit), en termes d'intention,
 et de résultat.
 
 Le Coding Goûter se distingue d'autres formats d'ateliers  où l'on apprend à programmer de bien des manières :
